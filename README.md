@@ -2,28 +2,11 @@ Website link -> adamwk97.epizy.com
 
 1. My Java code for this week is
 
+```
+<!DOCTYPE html>
+<html>
 <body>
-<p>Click the number to see how big it is!</p>
-<button onclick ="javaFunction()">Try it</button>
-<p id="Mod4"></p>
-<script>	
-function javaFunction(){
-	int num = Math.random()%6+1;
-	
-	if(num <=2){
-		result = "Small number";
-	} else if (num >2 & num < 5);
-		result = "Medium number";
-	}else{
-		result = "Big number";
-	}
-	document.getElementByld("Mod4").innerHTML = result;
-	}
-	</script>
-	</body>		
-</html>
 
-<body>
 <p>Click the number to see how big it is!</p>
 <button onclick ="javaFunction()">Try it</button>
 <p id="Mod4"></p>
@@ -43,6 +26,7 @@ function javaFunction(){
 	</script>
 	</body>		
 </html>
+```
 
 However clicking the button does not show anything and I am unsure why. 
 
