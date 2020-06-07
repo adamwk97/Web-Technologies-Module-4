@@ -1,6 +1,6 @@
 Website link -> adamwk97.epizy.com
 
-1. My Java code for this week is
+#1. My Java code for this week is
 
 ```
 <!DOCTYPE html>
@@ -30,7 +30,7 @@ function javaFunction(){
 
 However clicking the button does not show anything and I am unsure why. 
 
-2. The fixed code looks like:
+#2. The fixed code looks like:
 
 ```
 <!DOCTYPE html>
@@ -57,5 +57,5 @@ document.getElementById("demo").innerHTML = greeting;
 </html>
 ```
 
-3. I found it fairly simple to follow on how to save a web image for a website using Photoshop. I saved and downloaded the file as a PNG,
+#3. I found it fairly simple to follow on how to save a web image for a website using Photoshop. I saved and downloaded the file as a PNG,
 imported it into photoshop and then saved it using the appropriate height/width dimensions. I did not have any problems with this.
